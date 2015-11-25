@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clínica Golgi</title>
+    <description>Clínica Privada Golgi tiena más de 20 años de experiencia en el cuidado de nuestros pacientes. Ofrece servicios de salud materna salud femenina, salud infantil, tratamiento de enfermedades crónicas. Médicos especialistas, Pediatra, Ginecóloga, Cardiólogo. Pediatría, Ginecología y Cardiología. Medicina General.
+</description>
+    <link>http://yourdomain.com/blog/</link>
+    <atom:link href="http://yourdomain.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Nov 2015 16:05:13 -0600</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2015 16:05:13 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Las 4 bebidas con más antioxidantes.</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/blog/images/wine.jpg&quot; class=&quot;fit image&quot; /&gt;
+Ahora todos conocemos los beneficios de los antioxidantes. Sabemos que retardan el envejecimiento,
+protejen la salud y reducen el riezgo de muchas enfermedades. Muchas bebidas promocionan
+su potencia como antioxidantes, pero no siempre son sometidas a las más rigurosas pruebas
+de actividad antioxidante. Un &lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/&quot;&gt;estudio&lt;/a&gt;, sometió a investigación una selección de
+bebidas para determinar sus propiedades antioxidantes.&lt;/p&gt;
+
+&lt;p&gt;Si estás pensando en empezar a tomar antioxidantes como parte de tu dieta, te presentamos
+&lt;em&gt;las 5 bebidas con más antioxidantes&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;jugo-de-granada&quot;&gt;1. Jugo de granada.&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/images/granada.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El jugo de granada es la bebida con más contenido de antioxidantes, y estudios han
+demostrado su alta concentración de polifenoles y flavonoides.
+La granada es una fruta que típicamente se encuentra en temporada desde Septiembre hasta
+Febrero y no es necesario tomarla en jugo para disfrutar de sus beneficios.&lt;/p&gt;
+
+&lt;h2 id=&quot;vino-tinto&quot;&gt;2. Vino tinto.&lt;/h2&gt;
+&lt;p&gt;El &lt;em&gt;vino tinto&lt;/em&gt; es un tipo de vino que se hace de uvas oscuras. Además de contener
+polifenoles, el vino tinto conteien resveratrol, una sustancia antioxidante de muchos
+beneficios. Recuerda nunca beber vino tinto en exceso.&lt;/p&gt;
+
+&lt;h2 id=&quot;jugo-de-uva&quot;&gt;3. Jugo de uva.&lt;/h2&gt;
+&lt;p&gt;Los flavonoides del jugo de uva, y también los del vino tinto, &lt;a href=&quot;http://circ.ahajournals.org/content/100/10/1050.short&quot;&gt;previenen la oxidación&lt;/a&gt; del 
+&lt;em&gt;“colesterol malo”&lt;/em&gt;, reduciendo el reixgo de enfermedades de las enfermedades del corazón
+que se asocian al colesterol.&lt;/p&gt;
+
+&lt;h2 id=&quot;jugo-de-arndano-blueberry&quot;&gt;4. Jugo de arándano (blueberry).&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/images/blueberry.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Una dieta rica en arándanos, &lt;a href=&quot;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0007975&quot;&gt;puede tener efectos positivos&lt;/a&gt; en enfermedades del
+corazón como la falla cardiaca crónica.&lt;/p&gt;
+
+&lt;!-- Links --&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2015 07:34:34 -0600</pubDate>
+        <link>http://yourdomain.com/blog/2015/11/24/las-5-bebidas-con-mas-antioxidantes.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2015/11/24/las-5-bebidas-con-mas-antioxidantes.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 23 Nov 2015 11:55:24 -0600</pubDate>
+        <link>http://yourdomain.com/blog/2015/11/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2015/11/23/welcome-to-jekyll.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
